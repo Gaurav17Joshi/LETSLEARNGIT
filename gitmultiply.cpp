@@ -7,5 +7,6 @@ int main(){
     cin>>a>>b;
     cout<<"The product is: ";
     cout<<a*b;
+    cout<<"Succesful";
     return 0;
 }
